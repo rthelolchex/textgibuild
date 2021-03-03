@@ -1,0 +1,5 @@
+{
+"Diluc":
+Diluc (5 Star Character)
+}
+
