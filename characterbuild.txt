@@ -1,5 +1,2 @@
-{
-"Diluc":
-Diluc (5 Star Character)
-}
-
+Diluc (☆5 star character)
+*Tier rank : S*
